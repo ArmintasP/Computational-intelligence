@@ -1,0 +1,17 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\selectlanguage *{lithuanian}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.}Užduoties tikslas}{2}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.}Duomenys}{2}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.}Perceptrono mokymas}{3}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.}Iteracijos ir epochos}{3}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.}Pradiniai svoriai ir poslinkis}{3}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.}Rezultatai}{4}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.}Išvados}{8}{section.4}%
