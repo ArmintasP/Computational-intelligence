@@ -1,0 +1,291 @@
+Slenkstinė aktyvacijos funkcija
+
+Pradiniai svoriai:  [-0.043214    0.09631218  1.59749039 -1.50894108  1.37445284  0.49807289 0.82484865  0.56262489 -0.96140759] 
+Pradinis poslinkis:  -0.9189004365217152
+
+Galutiniai svoriai: [ 0.07378605 -0.0866878   0.19749037  0.02205904  0.08145278  0.06507287
+  0.05184865  0.08162488  0.02159248] 
+ Galutinis poslinkis: -1.736900436521634 
+
+ Paskutinė (treniravimo) nuostolių funkcijos reikšmė: 9.5 
+ Paskutinė (treniravimo) tikslumo reikšmė 0.9652014652014652 
+ Paskutinė (validavimo) nuostolių funkcijos reikšmė: 2.0 
+ Paskutinė (validavimo) tikslumo reikšmė: 0.9708029197080292 
+ Epochų skaičius: 30 
+ Mokymosi greitis: 0.001 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 3. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 8.  4.  4.  1.  6. 10.  2.  5.  2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 8. 10. 10.  8.  6.  9.  3. 10. 10.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 2. 2. 3. 2. 3. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 3. 1. 2.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 2. 3. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 1. 2. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 4.  8.  6.  3.  4. 10.  7.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [6. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 3. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 7.  3.  2. 10.  5. 10.  5.  4.  4.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [2. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 8.  7.  8.  5. 10. 10.  7.  2.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [6. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 3. 1. 3. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 8. 10. 10. 10.  6. 10. 10. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 3. 2. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 4. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5. 10.  8. 10.  8. 10.  3.  6.  3.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 4. 5. 3. 7. 3. 4. 6. 1.] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [10.  3.  4.  5.  3. 10.  4.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 2. 2. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 5. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 3. 4. 1. 3. 2. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5.  8.  9.  4.  3. 10.  7.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 2. 2. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 6. 6. 5. 7. 6. 7. 7. 3.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 1. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 9.  6.  9.  2. 10.  6.  2.  9. 10.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5. 10. 10.  5.  4.  5.  4.  4.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5. 1. 1. 6. 3. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [2. 1. 1. 1. 1. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 2. 2. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 2. 2. 2. 3. 1. 1. 3. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 3. 1. 2. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [2. 1. 1. 1. 3. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 1. 1. 1. 2. 3. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 2. 1. 3. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 1. 1. 1. 1. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 4. 5. 1. 8. 1. 3. 6. 1.] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [5. 1. 2. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 1. 2. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5. 10. 10.  6. 10. 10. 10.  6.  5.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [2. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5.  5.  5.  6.  3. 10.  3.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 1. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [8. 4. 4. 5. 4. 7. 7. 8. 2.] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 1. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 2. 2. 1. 4. 3. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  4.  4. 10.  2. 10.  5.  3.  3.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [2. 1. 1. 2. 3. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 4. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 2. 2. 3. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 8.  4. 10.  5.  4.  4.  7. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  4.  3. 10.  3. 10.  7.  1.  2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  7.  7.  4.  5. 10.  5.  7.  2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [4. 3. 2. 1. 3. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 6.  1.  3.  1.  4.  5.  5. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 8.  3.  5.  4.  5. 10.  1.  6.  2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 1. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  6.  3.  6.  4. 10.  7.  8.  4.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 2. 1. 1. 1. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [7. 4. 6. 4. 6. 1. 4. 3. 1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5. 3. 2. 4. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 2. 5. 5. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 2. 4. 3. 2. 2. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 3. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5.  4.  6.  8.  4.  1.  8. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 2.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 7.  4.  4.  3.  4. 10.  6.  9.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 5. 10. 10.  8.  5.  5.  7. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 2. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 9.  4.  5. 10.  6. 10.  4.  8.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5. 1. 1. 3. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [6. 1. 1. 3. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 3.  3.  5.  2.  3. 10.  7.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 8.  7.  8.  7.  5.  5.  5. 10.  2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [10.  4.  7.  2.  2.  8.  6.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [6. 1. 3. 2. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [7. 8. 3. 7. 4. 5. 7. 8. 2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 5.  4.  6.  6.  4. 10.  4.  3.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [2. 1. 2. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [2. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [4. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5. 10. 10. 10.  6. 10.  6.  5.  2.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 1. 2. 2. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  6.  4.  3. 10. 10.  9. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5. 1. 2. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 3. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  5.  8. 10.  3. 10.  5.  1.  3.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 8.  7.  8.  5.  5. 10.  9. 10.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 3. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 8.  8.  9.  4.  5. 10.  7.  8.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 8. 10. 10. 10.  8. 10. 10.  7.  3.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [ 8.  7.  6.  4.  4. 10.  5.  1.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [1. 1. 1. 1. 2. 1. 1. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [1. 2. 1. 3. 2. 1. 1. 2. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 7.  5.  6. 10.  4. 10.  5.  3.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [3. 1. 1. 1. 2. 1. 2. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [2. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [3. 1. 1. 3. 8. 1. 5. 8. 1.] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [4. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [10.  6.  4.  1.  3.  4.  3.  2.  3.] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [2. 1. 1. 1. 2. 1. 3. 1. 1.] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [ 5.  4.  4.  9.  2. 10.  5.  6.  1.] 	 nustatė: 1 turėjo būti: 1 
+
+

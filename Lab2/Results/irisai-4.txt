@@ -1,0 +1,57 @@
+Slenkstinė aktyvacijos funkcija.
+
+Pradiniai svoriai:  [-1.02607258  0.52098422 -1.66100759 -0.47327743] 
+Pradinis poslinkis:  -1.0519975387565073
+
+
+Galutiniai svoriai: [-0.15627245  0.19208422  0.20719267  0.29952258] 
+ Galutinis poslinkis: -1.062997538756506 
+
+ Paskutinė (treniravimo) nuostolių funkcijos reikšmė: 2.0 
+ Paskutinė (treniravimo) tikslumo reikšmė 0.95 
+ Paskutinė (validavimo) nuostolių funkcijos reikšmė: 1.5 
+ Paskutinė (validavimo) tikslumo reikšmė: 0.85 
+ Epochų skaičius: 200 
+ Mokymosi greitis: 0.001 
+
+Požymiai: [5.7 2.6 3.5 1. ] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [6.  2.9 4.5 1.5] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5.9 3.  4.2 1.5] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [6.2 2.2 4.5 1.5] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5.9 3.2 4.8 1.8] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [6.3 3.3 6.  2.5] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [6.6 3.  4.4 1.4] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [6.3 3.3 4.7 1.6] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [5.6 2.8 4.9 2. ] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [6.2 2.8 4.8 1.8] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [6.4 3.2 4.5 1.5] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [5.6 3.  4.5 1.5] 	 nustatė: 1 turėjo būti: 0 
+
+Požymiai: [5.8 2.8 5.1 2.4] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [7.2 3.  5.8 1.6] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5.7 2.8 4.5 1.3] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [7.2 3.2 6.  1.8] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [5.2 2.7 3.9 1.4] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [7.7 2.8 6.7 2. ] 	 nustatė: 1 turėjo būti: 1 
+
+Požymiai: [6.  2.2 4.  1. ] 	 nustatė: 0 turėjo būti: 0 
+
+Požymiai: [6.3 2.3 4.4 1.3] 	 nustatė: 0 turėjo būti: 0 
+
+
