@@ -1,0 +1,8 @@
+\selectlanguage *{lithuanian}
+\contentsline {section}{\numberline {1.}Užduoties tikslas}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1.}Duomenys}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2.}Užduočių sekų modeliavimas}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1.}Pirmos užduočių sekos neuroninis tinklas}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Klasifikavimo rezultatai iš WEKA sistemos}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3.}Trečios sekos modelio parametrais klasifikavimas skaičiuoklėje}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3.}Išvados}{9}{section.3}%
