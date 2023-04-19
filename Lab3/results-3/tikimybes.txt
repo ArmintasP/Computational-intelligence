@@ -1,0 +1,42 @@
+@relation iris_set_1_of_1
+
+@attribute sepallength numeric
+@attribute sepalwidth numeric
+@attribute petallength numeric
+@attribute petalwidth numeric
+@attribute class {Iris-setosa,Iris-versicolor,Iris-virginica}
+@attribute MultilayerPerceptron_prob_Iris-setosa numeric
+@attribute MultilayerPerceptron_prob_Iris-versicolor numeric
+@attribute MultilayerPerceptron_prob_Iris-virginica numeric
+
+@data
+5.1,3.5,1.4,0.2,Iris-setosa,0.993843,0.006098,0.000059
+4.9,3,1.4,0.2,Iris-setosa,0.991631,0.008305,0.000064
+4.7,3.2,1.3,0.2,Iris-setosa,0.993352,0.006587,0.000061
+4.6,3.1,1.5,0.2,Iris-setosa,0.992401,0.007536,0.000063
+5,3.6,1.4,0.2,Iris-setosa,0.994193,0.005748,0.000058
+5.4,3.9,1.7,0.4,Iris-setosa,0.993356,0.006585,0.000059
+4.6,3.4,1.4,0.3,Iris-setosa,0.993447,0.006492,0.000061
+5,3.4,1.5,0.2,Iris-setosa,0.99338,0.00656,0.00006
+4.4,2.9,1.4,0.2,Iris-setosa,0.99177,0.008165,0.000066
+4.9,3.1,1.5,0.1,Iris-setosa,0.992784,0.007155,0.000061
+7,3.2,4.7,1.4,Iris-versicolor,0.004287,0.988349,0.007364
+6.4,3.2,4.5,1.5,Iris-versicolor,0.004385,0.987011,0.008604
+6.9,3.1,4.9,1.5,Iris-versicolor,0.002967,0.98165,0.015382
+5.5,2.3,4,1.3,Iris-versicolor,0.004036,0.986839,0.009125
+6.5,2.8,4.6,1.5,Iris-versicolor,0.002827,0.979675,0.017498
+5.7,2.8,4.5,1.3,Iris-versicolor,0.00449,0.986532,0.008978
+6.3,3.3,4.7,1.6,Iris-versicolor,0.003355,0.980081,0.016564
+4.9,2.4,3.3,1,Iris-versicolor,0.018874,0.977449,0.003677
+6.6,2.9,4.6,1.3,Iris-versicolor,0.004236,0.988215,0.007549
+5.2,2.7,3.9,1.4,Iris-versicolor,0.005622,0.986684,0.007694
+6.3,3.3,6,2.5,Iris-virginica,0.000091,0.000366,0.999543
+5.8,2.7,5.1,1.9,Iris-virginica,0.000143,0.001578,0.998278
+7.1,3,5.9,2.1,Iris-virginica,0.000098,0.00048,0.999422
+6.3,2.9,5.6,1.8,Iris-virginica,0.000148,0.001864,0.997988
+6.5,3,5.8,2.2,Iris-virginica,0.000094,0.000408,0.999498
+7.6,3,6.6,2.1,Iris-virginica,0.000091,0.00039,0.999519
+4.9,2.5,4.5,1.7,Iris-virginica,0.000485,0.082611,0.916904
+7.3,2.9,6.3,1.8,Iris-virginica,0.000107,0.000673,0.99922
+6.7,2.5,5.8,1.8,Iris-virginica,0.000108,0.000687,0.999206
+7.2,3.6,6.1,2.5,Iris-virginica,0.000091,0.000379,0.99953

@@ -1,0 +1,74 @@
+=== Classifier model ===
+
+Scheme:   MultilayerPerceptron
+Relation: iris
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    0.5158156938089529
+    Node 3    4.932935476371919
+    Node 4    -2.113018808152134
+    Node 5    -1.7000689011699044
+    Node 6    -1.7881180949118543
+    Node 7    -4.2547423354854725
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -0.09045224982657779
+    Node 3    -5.396249643540617
+    Node 4    2.12393143289957
+    Node 5    -6.451803444732602
+    Node 6    -7.0281876623687785
+    Node 7    3.540631857106659
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -4.832564201101485
+    Node 3    -4.932018477701111
+    Node 4    -0.865971926036019
+    Node 5    6.012699933559034
+    Node 6    6.472267637868344
+    Node 7    0.7617363831577116
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -1.946106453398981
+    Attrib sepallength    -0.37283814471399507
+    Attrib sepalwidth    2.1489013171006617
+    Attrib petallength    -2.8442732010265632
+    Attrib petalwidth    -3.0854077392882
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    1.8120544101537142
+    Attrib sepallength    0.8287916438033713
+    Attrib sepalwidth    -1.3340632089140874
+    Attrib petallength    2.0311070509028637
+    Attrib petalwidth    1.6788400769097238
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -5.6841663354516525
+    Attrib sepallength    -1.2240751752999055
+    Attrib sepalwidth    -2.357784058418971
+    Attrib petallength    7.302786850968147
+    Attrib petalwidth    7.236329626131123
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -6.097599711193066
+    Attrib sepallength    -1.367051387333057
+    Attrib sepalwidth    -2.526432231109449
+    Attrib petallength    7.8218924333701345
+    Attrib petalwidth    7.781498392724921
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    2.119847684649842
+    Attrib sepallength    0.5917945970023819
+    Attrib sepalwidth    -1.7601365992203728
+    Attrib petallength    2.592902460785082
+    Attrib petalwidth    2.8254522070072094
+Class Iris-setosa
+    Input
+    Node 0
+Class Iris-versicolor
+    Input
+    Node 1
+Class Iris-virginica
+    Input
+    Node 2
+
