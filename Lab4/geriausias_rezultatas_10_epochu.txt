@@ -1,0 +1,71 @@
+                        Predicted Class                                    
+                               airplane automobile bird  cat  deer   dog   
+Actual Class airplane              1051        100   71   30    77    31  \
+             automobile              12       1346    0    9    14     7   
+             bird                   118         19  708  120   334   214   
+             cat                     28         27   83  667   186   468   
+             deer                    55         19   50  106  1176    63   
+             dog                     15         15   85  271   151  1018   
+             frog                    12         13   42  118   179    71   
+             horse                   20          6   34   68   202   176   
+             ship                   114         96   13   28    32    15   
+             truck                   27        157    6   31    13    12   
+
+                                                 
+                         frog horse  ship truck  
+Actual Class airplane      16    27   251   147  
+             automobile    15    12    59   305  
+             bird         141    67    39    49  
+             cat          183    85    35    64  
+             deer         117   139    27    29  
+             dog          106    96    17    45  
+             frog        1245    25    18    60  
+             horse         23  1146    17    83  
+             ship          12     4  1399   104  
+             truck         20    19    47  1478   
+
+
+airplane : {'accuracy': 0.94, 'recall': 0.58, 'precision': 0.72, 'f1': 0.65}
+automobile : {'accuracy': 0.95, 'recall': 0.76, 'precision': 0.75, 'f1': 0.75}
+bird : {'accuracy': 0.92, 'recall': 0.39, 'precision': 0.65, 'f1': 0.49}
+cat : {'accuracy': 0.89, 'recall': 0.37, 'precision': 0.46, 'f1': 0.41}
+deer : {'accuracy': 0.9, 'recall': 0.66, 'precision': 0.5, 'f1': 0.57}
+dog : {'accuracy': 0.9, 'recall': 0.56, 'precision': 0.49, 'f1': 0.52}
+frog : {'accuracy': 0.93, 'recall': 0.7, 'precision': 0.66, 'f1': 0.68}
+horse : {'accuracy': 0.94, 'recall': 0.65, 'precision': 0.71, 'f1': 0.68}
+ship : {'accuracy': 0.95, 'recall': 0.77, 'precision': 0.73, 'f1': 0.75}
+truck : {'accuracy': 0.93, 'recall': 0.82, 'precision': 0.63, 'f1': 0.71}
+
+
+Actual			Predicted
+airplane			ship
+airplane			truck
+airplane			airplane
+automobile			automobile
+automobile			truck
+automobile			automobile
+bird			dog
+bird			bird
+bird			deer
+cat			cat
+cat			dog
+cat			dog
+deer			deer
+deer			bird
+deer			deer
+dog			dog
+dog			dog
+dog			dog
+frog			frog
+frog			deer
+frog			frog
+horse			horse
+horse			horse
+horse			deer
+ship			ship
+ship			deer
+ship			airplane
+truck			truck
+truck			truck
+truck			truck
+

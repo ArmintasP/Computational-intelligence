@@ -1,0 +1,126 @@
+Structure:
+
+Conv2d output shape:	 torch.Size([1, 6, 32, 32])
+ELU output shape:	 torch.Size([1, 6, 32, 32])
+AvgPool2d output shape:	 torch.Size([1, 6, 16, 16])
+Conv2d output shape:	 torch.Size([1, 8, 14, 14])
+ELU output shape:	 torch.Size([1, 8, 14, 14])
+MaxPool2d output shape:	 torch.Size([1, 8, 13, 13])
+Conv2d output shape:	 torch.Size([1, 16, 11, 11])
+ELU output shape:	 torch.Size([1, 16, 11, 11])
+Flatten output shape:	 torch.Size([1, 1936])
+Linear output shape:	 torch.Size([1, 80])
+ELU output shape:	 torch.Size([1, 80])
+Dropout output shape:	 torch.Size([1, 80])
+Linear output shape:	 torch.Size([1, 24])
+ELU output shape:	 torch.Size([1, 24])
+Linear output shape:	 torch.Size([1, 10])
+Parameter count: 159,218
+[1] Train Acc: 0.47726190090179443.2f  Valid Acc: 0.4899444580078125.2f
+[2] Train Acc: 0.5474047660827637.2f  Valid Acc: 0.5508888959884644.2f
+[3] Train Acc: 0.5765714049339294.2f  Valid Acc: 0.5756111145019531.2f
+[4] Train Acc: 0.6040714383125305.2f  Valid Acc: 0.6005555391311646.2f
+[5] Train Acc: 0.616428554058075.2f  Valid Acc: 0.6043888926506042.2f
+[6] Train Acc: 0.6229285597801208.2f  Valid Acc: 0.6118333339691162.2f
+[7] Train Acc: 0.6297857165336609.2f  Valid Acc: 0.6181111335754395.2f
+[8] Train Acc: 0.6391428709030151.2f  Valid Acc: 0.6280555725097656.2f
+[9] Train Acc: 0.6435714364051819.2f  Valid Acc: 0.6321666836738586.2f
+[10] Train Acc: 0.652571439743042.2f  Valid Acc: 0.6380000114440918.2f
+[11] Train Acc: 0.6553809642791748.2f  Valid Acc: 0.6374444365501404.2f
+[12] Train Acc: 0.6521190404891968.2f  Valid Acc: 0.6353889107704163.2f
+[13] Train Acc: 0.6710714101791382.2f  Valid Acc: 0.6463333368301392.2f
+[14] Train Acc: 0.6662380695343018.2f  Valid Acc: 0.6451666951179504.2f
+[15] Train Acc: 0.6729523539543152.2f  Valid Acc: 0.6480555534362793.2f
+[16] Train Acc: 0.6786666512489319.2f  Valid Acc: 0.6492778062820435.2f
+[17] Train Acc: 0.68278568983078.2f  Valid Acc: 0.6527777910232544.2f
+[18] Train Acc: 0.6809523701667786.2f  Valid Acc: 0.6486111283302307.2f
+[19] Train Acc: 0.6897380948066711.2f  Valid Acc: 0.6553888916969299.2f
+[20] Train Acc: 0.6921190619468689.2f  Valid Acc: 0.6557222008705139.2f
+[21] Train Acc: 0.6932142972946167.2f  Valid Acc: 0.6513333320617676.2f
+[22] Train Acc: 0.7001190185546875.2f  Valid Acc: 0.6621666550636292.2f
+[23] Train Acc: 0.6981428861618042.2f  Valid Acc: 0.6571666598320007.2f
+[24] Train Acc: 0.6834285855293274.2f  Valid Acc: 0.6469444632530212.2f
+[25] Train Acc: 0.7040238380432129.2f  Valid Acc: 0.660611093044281.2f
+[26] Train Acc: 0.7068809270858765.2f  Valid Acc: 0.6553888916969299.2f
+[27] Train Acc: 0.7041428685188293.2f  Valid Acc: 0.6613333225250244.2f
+[28] Train Acc: 0.7105476260185242.2f  Valid Acc: 0.6597777605056763.2f
+[29] Train Acc: 0.7144761681556702.2f  Valid Acc: 0.6617777943611145.2f
+[30] Train Acc: 0.7111666798591614.2f  Valid Acc: 0.6588333249092102.2f
+Time elapsed: 25.252876845995583  minutes.
+
+
+
+                        Predicted Class                                    
+                               airplane automobile bird  cat  deer   dog   
+Actual Class airplane              1381         58   77   36    31    16  \
+             automobile              40       1435    7    8    11     6   
+             bird                   174         22  889   68   138   248   
+             cat                     50         28  121  585   102   559   
+             deer                    60         14  113   88  1060   125   
+             dog                     20         20   78  194    95  1134   
+             frog                    15         17   53   68    62    82   
+             horse                   25         12   61   43   137   187   
+             ship                   208         80   27   25    16    18   
+             truck                   73        191   16   36    13    14   
+
+                                                 
+                         frog horse  ship truck  
+Actual Class airplane      13    19    98    72  
+             automobile    33     9    52   178  
+             bird         162    59    32    17  
+             cat          224    75    39    43  
+             deer         159   127    16    19  
+             dog          141   100    15    22  
+             frog        1445    21     8    12  
+             horse         37  1228     8    37  
+             ship          12     5  1347    79  
+             truck         38    34    40  1355   
+
+
+airplane : {'accuracy': 0.94, 'recall': 0.77, 'precision': 0.67, 'f1': 0.72}
+automobile : {'accuracy': 0.96, 'recall': 0.81, 'precision': 0.76, 'f1': 0.79}
+bird : {'accuracy': 0.92, 'recall': 0.49, 'precision': 0.62, 'f1': 0.55}
+cat : {'accuracy': 0.9, 'recall': 0.32, 'precision': 0.51, 'f1': 0.39}
+deer : {'accuracy': 0.93, 'recall': 0.6, 'precision': 0.64, 'f1': 0.62}
+dog : {'accuracy': 0.89, 'recall': 0.62, 'precision': 0.47, 'f1': 0.54}
+frog : {'accuracy': 0.94, 'recall': 0.81, 'precision': 0.64, 'f1': 0.71}
+horse : {'accuracy': 0.94, 'recall': 0.69, 'precision': 0.73, 'f1': 0.71}
+ship : {'accuracy': 0.96, 'recall': 0.74, 'precision': 0.81, 'f1': 0.78}
+truck : {'accuracy': 0.95, 'recall': 0.75, 'precision': 0.74, 'f1': 0.74}
+
+
+
+
+Actual			Predicted
+airplane			airplane
+airplane			truck
+airplane			airplane
+automobile			automobile
+automobile			truck
+automobile			automobile
+bird			bird
+bird			bird
+bird			bird
+cat			automobile
+cat			dog
+cat			truck
+deer			deer
+deer			horse
+deer			deer
+dog			dog
+dog			dog
+dog			dog
+frog			frog
+frog			frog
+frog			frog
+horse			horse
+horse			dog
+horse			dog
+ship			ship
+ship			cat
+ship			airplane
+truck			automobile
+truck			truck
+truck			truck
+
+
