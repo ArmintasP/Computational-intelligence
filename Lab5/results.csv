@@ -1,0 +1,6 @@
+	0	1	2	3	4
+0	Iris-versicolor, Iris-virginica				
+1	Iris-versicolor	Iris-versicolor			
+2		Iris-versicolor	Iris-versicolor	Iris-versicolor	Iris-versicolor
+3				Iris-versicolor	Iris-versicolor
+4					Iris-setosa, Iris-versicolor
